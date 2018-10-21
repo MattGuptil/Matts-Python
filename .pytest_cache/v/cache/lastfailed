@@ -1,0 +1,5 @@
+{
+  "test_tachycardic.py::test_is_tachycardic[large bottoms-True]": true,
+  "test_tachycardic.py::test_is_tachycardic[tac-e-car-dic-True]": true,
+  "test_tachycardic.py::test_is_tachycardic[tic-tac-toe-hy-car-dic-True]": true
+}
