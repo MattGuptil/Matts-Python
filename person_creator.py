@@ -9,3 +9,4 @@ if __name__ == '__main__':
 	print(my_person.lastname)
 	print(my_person.output_fullname())
 	print(my_person.age)
+	

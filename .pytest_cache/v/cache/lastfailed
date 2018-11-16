@@ -1,4 +1,7 @@
 {
+  "BME/Medical-Software-Design/Lectures/envelope_detection/test_all.py": true,
+  "BME/Medical-Software-Design/Lectures/unit_testing/test_shopping.py": true,
+  "test_intervals.py::test_interval[myIn0-myIn20-Expect0]": true,
   "test_tachycardic.py::test_is_tachycardic[large bottoms-True]": true,
   "test_tachycardic.py::test_is_tachycardic[tac-e-car-dic-True]": true,
   "test_tachycardic.py::test_is_tachycardic[tic-tac-toe-hy-car-dic-True]": true
